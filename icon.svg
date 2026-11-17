@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Budget a Buste">
+  <rect width="512" height="512" fill="#12101a"/>
+  <g>
+    <rect x="102" y="150" width="308" height="222" rx="30" fill="#e8a6be"/>
+    <path d="M102 163 L256 272 L410 163" fill="none" stroke="#12101a" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+    <g transform="translate(256,318)" fill="none" stroke="#12101a" stroke-width="17" stroke-linecap="round">
+      <path d="M26 -26 A34 34 0 1 0 26 26"/>
+      <path d="M-34 -9 H16"/>
+      <path d="M-34 10 H16"/>
+    </g>
+  </g>
+</svg>

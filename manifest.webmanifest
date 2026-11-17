@@ -1,0 +1,27 @@
+{
+ "name": "Budget a Buste",
+ "short_name": "Buste",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#12101a",
+ "theme_color": "#12101a",
+ "lang": "it",
+ "dir": "ltr",
+ "description": "Le spese di casa divise in buste, con il residuo che deve restare su ogni conto.",
+ "icons": [
+  {
+   "src": "./icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  },
+  {
+   "src": "./icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "maskable"
+  }
+ ]
+}
