@@ -1,7 +1,7 @@
 /* Service worker: tiene l'app disponibile anche senza rete.
    La pagina si prende sempre dalla rete quando c'e', cosi' gli aggiornamenti arrivano subito. */
-const V='bab-567793def6';
-const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg'];
+const V='bab-bd149a1687';
+const SHELL=['./','./index.html','./manifest.webmanifest','./icon-180.png','./icon-192.png','./icon.svg'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));
 });
